@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/jlamimoso/testes/stringutil"
+	"github.com/jlamimoso/tutorial/stringutil"
 )
 
 func main() {
